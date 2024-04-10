@@ -1,0 +1,15 @@
+/home/tekebai/Documents/projects/typeracer/Client/bin/Debug/net8.0/Client
+/home/tekebai/Documents/projects/typeracer/Client/bin/Debug/net8.0/Client.deps.json
+/home/tekebai/Documents/projects/typeracer/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/home/tekebai/Documents/projects/typeracer/Client/bin/Debug/net8.0/Client.dll
+/home/tekebai/Documents/projects/typeracer/Client/bin/Debug/net8.0/Client.pdb
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.sourcelink.json
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.dll
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/refint/Client.dll
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.pdb
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/home/tekebai/Documents/projects/typeracer/Client/obj/Debug/net8.0/ref/Client.dll
